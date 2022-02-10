@@ -1,0 +1,8 @@
+#to print given number is positive or negative
+a=int(input('enter number:'))
+if a>0:
+    print('given number is postive.')
+elif a==0:
+    print('given number is zero')
+else:
+    print('given number is negative')
